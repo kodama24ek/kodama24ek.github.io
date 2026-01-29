@@ -1,2 +1,2 @@
 # kodama24ek.github.io
-portfolio web site
+https://kodama24ek.github.io/
